@@ -2,8 +2,11 @@
 
 #### Install
 
-`npm i`
+`npm i`  
+
 `npm run devStart`
+
 `npm peerjs --port <PORTNUMBER>`
+
 
 Navigate to `localhost:3000`
